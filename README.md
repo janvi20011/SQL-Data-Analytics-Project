@@ -32,7 +32,7 @@ The project focuses on exploring sales data, understanding customers and product
 ---
 ## Project Structure
 
-SQL-Data-Analytics-Project
+- SQL-Data-Analytics-Project
 │
 ├── README.md
 ├── datasets/
@@ -60,50 +60,50 @@ SQL-Data-Analytics-Project
 The first part of the project focuses on understanding the database and exploring the available data.
 
 ## 1. Database Exploration
-Explore database tables
-Understand the database structure
-Examine table information
+-Explore database tables
+-Understand the database structure
+-Examine table information
 
 ## 2. Dimensions Exploration
-Explore customer data
-Explore product data
-Understand categories and attributes
+-Explore customer data
+-Explore product data
+-Understand categories and attributes
 
 ## 3. Date Exploration
-Identify minimum and maximum dates
-Understand the available date range
-Explore time-related information
+-Identify minimum and maximum dates
+-Understand the available date range
+-Explore time-related information
 
 ## 4. Measures Exploration
-Calculate key business metrics
-Analyze sales
-Analyze quantities
-Explore other important measures
+-Calculate key business metrics
+-Analyze sales
+-Analyze quantities
+-Explore other important measures
 
 ## 5. Magnitude Analysis
-Compare business metrics across different dimensions
-Identify high-performing areas
-Identify low-performing areas
+-Compare business metrics across different dimensions
+-Identify high-performing areas
+-Identify low-performing areas
 
 ## 6. Ranking Analysis
-Rank customers
-Rank products
-Identify Top N performers
-Identify Bottom N performers
+-Rank customers
+-Rank products
+-Identify Top N performers
+-Identify Bottom N performers
 
 ## Advanced Analytics
 
-The second part of the project focuses on deeper analysis and business insights.
+-The second part of the project focuses on deeper analysis and business insights.
 
 ## 7. Change-Over-Time Analysis
-Analyze sales over time
-Identify trends
-Compare performance across different periods
+-Analyze sales over time
+-Identify trends
+-Compare performance across different periods
 
 ## 8. Cumulative Analysis
-Calculate running totals
-Analyze cumulative sales
-Understand growth over time
+-Calculate running totals
+-Analyze cumulative sales
+-Understand growth over time
 
 ## 9. Performance Analysis
 Compare performance across different periods
